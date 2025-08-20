@@ -1,4 +1,5 @@
-
+<img width="1103" height="617" alt="image" src="https://github.com/user-attachments/assets/863af4de-e894-4d3c-b218-552b7dc8a50f" />
+<img width="1104" height="623" alt="image" src="https://github.com/user-attachments/assets/4652abf8-ff15-4bba-804d-0cd9ec3bb530" />
 # Sales Dashboard
 
 ## 📌 1. Objective
@@ -69,7 +70,5 @@ Forecasts are also provided at the **state level** for more granular insights.
 
 This project aims to empower decision-makers in retailenvironments with real-time, data-driven insights and reliable forecasts to optimize performance and customer satisfaction.
 
-<img width="1103" height="617" alt="image" src="https://github.com/user-attachments/assets/863af4de-e894-4d3c-b218-552b7dc8a50f" />
 
-<img width="1104" height="623" alt="image" src="https://github.com/user-attachments/assets/4652abf8-ff15-4bba-804d-0cd9ec3bb530" />
 
