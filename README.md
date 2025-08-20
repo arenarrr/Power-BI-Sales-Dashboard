@@ -68,7 +68,8 @@ Forecasts are also provided at the **state level** for more granular insights.
 ## 📌 Conclusion
 
 This project aims to empower decision-makers in retail/supermarket environments with real-time, data-driven insights and reliable forecasts to optimize performance and customer satisfaction.
-<img width="1108" height="625" alt="image" src="https://github.com/user-attachments/assets/aeab9a21-26bc-486b-8540-85c238f7e90a" />
+
+<img width="1106" height="621" alt="image" src="https://github.com/user-attachments/assets/f91471ab-93ac-42c4-8823-7a40a7fe0d75" />
 
 <img width="1104" height="623" alt="image" src="https://github.com/user-attachments/assets/4652abf8-ff15-4bba-804d-0cd9ec3bb530" />
 
